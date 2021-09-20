@@ -1,0 +1,19 @@
+.top_container{
+    width: 100%;
+    height: 170px;
+    background-color:#EC0101;
+}
+
+
+.middle_container{
+    width: 100%;
+    height: 170px;
+    background-color:#EEEEEE;
+
+}
+
+.bottom_container{
+    width: 100%;
+    height: 250px;
+    background-color: blue;
+}
